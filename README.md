@@ -26,6 +26,9 @@ If you find errors accessing the website (if related to database). I suggest you
 
 For complete screen shots, please check the file named Test cases Documentation.pdf
 
+![GIF](https://github.com/user-attachments/assets/4dbd288d-3737-4b98-bed8-a4e4232bc1d1)
+
+
 # On the website, these are your options: 
 
 -View Book List 

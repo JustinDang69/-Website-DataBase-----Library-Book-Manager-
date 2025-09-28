@@ -2,7 +2,7 @@
 
 # Overview 
 
-In this project, we created a Library Book Manager which is a PHP+ HTML+ CSS+ MySQL web application that allows users to manage books across categories. On the website, you can do a myriad of things such as adding, deleting, modifying, sorting (in ascending or descending order), and viewing the book list.
+In this project,I created a Library Book Manager which is a PHP+ HTML+ CSS+ MySQL web application that allows users to manage books across categories. On the website, you can do a myriad of things such as adding, deleting, modifying, sorting (in ascending or descending order), and viewing the book list.
 
 
 # How To Access

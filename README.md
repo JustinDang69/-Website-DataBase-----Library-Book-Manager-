@@ -17,7 +17,7 @@ On a web browser, search http://localhost/ the file name (in htdocs folder) in o
 
 If you find errors accessing the website (if related to database). I suggest you check the privileges of account. Good luck!
 
-#Screen Shots:
+# Screen Shots:
 - Main page:
   <img width="970" height="521" alt="image" src="https://github.com/user-attachments/assets/07a4e9e4-06ec-46f1-8eae-c1c1b389dc64" />
 
